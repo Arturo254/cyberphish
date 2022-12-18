@@ -28,3 +28,10 @@ NO ME HAGO RESPONSABLE DE EL MAL USO DE MI HERRAMIENTA
 POR FAVOR USARLO EN ENTORNOS CONTROLADOS
 NO USARLO EN PERSONAS SIN SU CONSENTIMIENTO
 SOLO ES UN REPOSITORIO CON FINES "EDUCATIVOS"
+
+# FEATURES
+
+ ° Se implementó el disclamer dentro de la herramienta,
+
+
+ °  Se actualizo el código para que funcione en la versión de termux inferior a el año 2020
